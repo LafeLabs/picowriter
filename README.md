@@ -1,9 +1,16 @@
 # picowriter
+
+![](images/assembly-top.jpg)
+![](images/assembly-bottom.jpg)
+
 one pi pico takes strings from serial and transmits them using a parallel data protocol to another which types the string into a second computer
 
 [Adafruit link to download and install Circuit Python on the Pi Pico](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython)
 
 ## Receive 
+
+![](images/receive-top.jpg)
+![](images/receive-bottom.jpg)
 
 ```
 # picowriter recieve side
@@ -74,6 +81,10 @@ while True:
 ```
 
 ## Transmit
+
+![](images/transmit-top.jpg)
+![](images/transmit-bottom.jpg)
+
 
 ```
 #https://stackoverflow.com/questions/48922189/receive-data-from-host-computer-using-circuit-python-on-circuit-playground-expre
