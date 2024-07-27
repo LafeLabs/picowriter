@@ -1,6 +1,8 @@
 # picowriter
 one pi pico takes strings from serial and transmits them using a parallel data protocol to another which types the string into a second computer
 
+[Adafruit link to download and install Circuit Python on the Pi Pico](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython)
+
 ## Transmit
 
 ```
